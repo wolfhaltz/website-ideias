@@ -12,6 +12,7 @@ Hello everybody! So, I created this readme to help myself while I was with a cre
 
 1. Use openCart to create a e-commerce template that you designed.
 2. Use Wordpress to create an blog template that you designed.
+3. Create a to-do app but not with that fucking boring layout. Be creative!
 
 # Advanced
 
