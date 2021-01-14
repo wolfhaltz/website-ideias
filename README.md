@@ -7,6 +7,7 @@ Hello everybody! So, I created this readme to help myself while I was with a cre
 
 1. Do a landing page of a dentist.
 2. Help a friend doing a page for his/her job.
+3. Do a error page. Whatever error you want and if you don't know which: 404!
 
 # Intermediary
 
