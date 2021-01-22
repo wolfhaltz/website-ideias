@@ -18,3 +18,4 @@ Hello everybody! So, I created this readme to help myself while I was with a cre
 # Advanced
 
 1. Create a blog with back, front and design by yourself using your favorite language.
+2. Make a full fucking system. Yes, you read right: ID design, website, system and a app.
