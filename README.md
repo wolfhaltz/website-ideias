@@ -3,11 +3,12 @@ Come here every time you feel run out of ideas!
 
 Hello everybody! So, I created this readme to help myself while I was with a creative block, so, if it can help you too, I'll be very glad. Enjoy it!
 
-# Simple
+# Easy
 
 1. Do a landing page of a dentist.
 2. Help a friend doing a page for his/her job.
 3. Do a error page. Whatever error you want and if you don't know which: 404!
+4. Do a website about the last thing you study.
 
 # Intermediary
 
