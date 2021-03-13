@@ -21,4 +21,4 @@ Hello everybody! So, I created this readme to help myself while I was with a cre
 
 1. Create a blog with back, front and design by yourself using your favorite language.
 2. Make a full fucking system. Yes, you read right: ID design, website, system and a app.
-3. Task management UI (with traits just like drag the card)
+3. Task management UI (with traits just like drag the card, example: <a href="https://codepen.io/aaronmcg/pen/GRjaRva">codepen.io/aaronmcg</a>)
