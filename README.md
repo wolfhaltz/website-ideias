@@ -5,10 +5,11 @@ Hello everybody! So, I created this readme to help myself while I was with a cre
 
 # Easy
 
-1. Do a landing page of a dentist.
-2. Help a friend doing a page for his/her job.
-3. Do a error page. Whatever error you want and if you don't know which: 404!
-4. Do a website about the last thing you study.
+1. Build your on basic portfolio. It needs to contain a header, a section about you, 3 imgs of stuff you did and a footer with your info contact.
+2. Do a landing page of a dentist.
+3. Help a friend doing a page for his/her job.
+4. Do a error page. Whatever error you want and if you don't know which: 404!
+5. Do a website about the last thing you study.
 
 # Intermediary
 
