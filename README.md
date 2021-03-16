@@ -1,4 +1,5 @@
 # Website Ideias
+<img src="./banner.png" alt="Yeah, just code man!" />
 Come here every time you feel run out of ideas!
 
 Hello everybody! So, I created this readme to help myself while I was with a creative block, so, if it can help you too, I'll be very glad. Enjoy it!
